@@ -2,48 +2,61 @@
 
 
 #container{
-	width: 900px;
+	width: 90%;
+	height: 90%;
+
 	background-color: #F5EED2;
+	background-image:url(http://o.onionstatic.com/images/8/8270/original/700.hq.jpg?3922);
+	background-size: 40% 40%;
+	background-repeat:repeat;
 	margin: 0 auto;
 }
 
 header{
-	width:900px;
-	height: 300px;
+	width:100%;
+	height: 80%;
 	background-color: #D0DCD0;
 }
 
 #menu{
 	float:left;
-	width:220px;
+	width:25%;
 	padding: 20px;
 	margin: 20px;
 	background-color: #8EBBB4;
+
+
+
 }
 
 #main-bar{
 	float:right;
-	width:560px;
+	width:62.222%;
 	padding:20px;
 }
 
 .story-image{
 	float:left;
-	width:130px;
+	width:14.4444%;
 	height:130px;
 	background-color: #D0DCD0;
 	margin: 0 20px 20px 0;
+		background-image:url(http://www.esquire.com/cm/esquire/images/Rq/esq-joe-biden-0112-lg.jpg);
+	background-size: 100% 100%;
+	background-repeat:no-repeat;
 }
 
 #related-container{
-	width:900px;
+	width:100%;
 	background-color: #F5EED2;
 	float:left;
 }
 
 .related-story{
-	width:260px;
+	width:28.8888%;
 	height:260px;
+	background-image:url(https://7e8c.https.cdn.softlayer.net/807E8C/origin.theweek.com/img/dir_0090/45142_article_full/if-joe-biden-were-elected-the-nations-45th-president-hed-be-74-years-old-when-he-assumed-office.jpg?204);
+	background-size: 100% 260px;
 	background-color: #589494;
 	float:left;
 	margin: 20px;
